@@ -1,15 +1,15 @@
  "docs": {
     "PRODUCTS": [
-      "doc1"
-      {
-        "opensource": ["doc2"]
+      "doc1"]
+      
+
        
        
-  },
+  
 
 
     ],
-    
+    "opensource": ["doc2"]
     "VAR Products": ["doc3"],
     "Application Reference":["doc10"]
   }
