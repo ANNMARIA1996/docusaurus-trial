@@ -14,3 +14,13 @@
     "Application Reference":["doc10"]
   },
    
+
+{
+  onPageNav: 'separate',
+  ...
+}
+ 
+ {
+  docsSideNavCollapsible: true,
+  ...
+}
