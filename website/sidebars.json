@@ -1,11 +1,19 @@
- "docs": {
+
+
+"docs": {
     "PRODUCTS": [
       "doc1"],
       
 
+{
+  onPageNav: 'separate',
+  ...
+}       
        
-       
-  
+ {
+  docsSideNavCollapsible: true,
+  ...
+} 
 
 
     
@@ -15,12 +23,6 @@
   },
    
 
-{
-  onPageNav: 'separate',
-  ...
-}
+
  
- {
-  docsSideNavCollapsible: true,
-  ...
-}
+ 
