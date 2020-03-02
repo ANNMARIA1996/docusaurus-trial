@@ -5,15 +5,7 @@
       "doc1"],
       
 
-{
-  onPageNav: 'separate',
-  ...
-}       
-       
- {
-  docsSideNavCollapsible: true,
-  ...
-} 
+ 
 
 
     
