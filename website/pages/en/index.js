@@ -67,8 +67,7 @@ class HomeSplash extends React.Component {
             <Button href="#try">Products</Button>
             <Button href={docUrl('doc1.html')}>Open source</Button>
             <Button href={docUrl('doc2.html')}>Relative Links</Button>
-            
-            <Button onClick={this.savePDF}>Save as PDF</Button>  
+           
           </PromoSection>
         </div>
       </SplashContainer>
